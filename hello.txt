@@ -20,3 +20,4 @@ hello yanxixi,hello git.
 hello yanxixi,hello git.
 hello yanxixi,hello git.
 modify in remote
+modify to check ssh
